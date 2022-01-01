@@ -37,35 +37,34 @@ Couleurs
 
 # 00:00:0   0) Andante semplice 
 
+
 ## 00:00:1 4/4
 
-- 00:09:0 /orange
+- 00:09:0 /lime
 
 # 00:09:0   1) The snowman
 
-- 00:48:0 /yellow
+- 00:47:4 /lime
 
-# 00:48:0   2) Reveil
-
-- 00:55:0 /red
+# 00:47:4   2) Reveil
 
 ## 00:55:0 3/4
 
-- 00:55:1 Solo flute /blue
-- 00:12:0 /purple
-
+- 00:55:4 Solo flute /blue
+- 01:12:0 /lime
 # 01:12:0   3) Allegro energico
 
 - 00:29:0
-
 # 01:29:0   4) Habillage
 
 ## 01:55:0 4/4
 
+- 01:58:0 
 # 01:58:0   5) Alla marcia, pesante
 
+- 02:10:0 
 ## 02:10:0 3/4
-
+- 02:11:0 
 ## 02:11:0 4/4
-
+- 20:05:0 
 # 20:05:0   6) Con melancolia
