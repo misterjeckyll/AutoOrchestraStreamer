@@ -37,130 +37,224 @@ Couleurs
 
 # 00:00:0       0) Andante semplice 
 
+- 00:01:6 depart piano /lime
+# 00:01:6       1) The snowman
 
-## 00:00:1 4/4
+- 00:24:0 Depart cordes /darkorange
 
-- 00:09:0 /lime
+- 00:46:6 /lime
 
-# 00:09:0       1) The snowman
+# 00:46:6       2) Reveil
 
-- 00:46:8 /lime
+- 00:54:5 Solo flute /darkorange
+- 01:02:2 Dainty /darkorange
+- 01:11:7 /lime
 
-# 00:46:8       2) Reveil
+# 01:11:7       3) Allegro energico
 
-## 00:54:5 3/4
+- 01:28:7 /lime
 
-- 00:54:5 Solo flute /blue
-- 01:02:3 Dainty /purple
-- 01:11:6 /lime
-
-# 01:11:6       3) Allegro energico
-
-- 01:29:1 /lime
-
-# 01:29:1       4) Chaussettes
-
-## 01:55:0 4/4
+# 01:28:7       4) Chaussettes
+ - 01:49:4 /lime
 
 - 01:57:3 /lime
 
 # 01:57:3       5) Alla marcia, pesante
 
-## 02:10:0 3/4
+- 02:11:8 Solo clarinet /darkorange
+- 02:19:5 crash /darkorange
+- 02:23:9 /lime
+# 02:23:9       6) Con melancolia
 
-## 02:11:0 4/4
-- 02:11:9 Solo clarinet
-- 02:19:7 crash
-- 02:24:0 /lime
-# 02:24:0       6) Con melancolia
+- 02:41:0 /lime
+# 02:41:0       7) Construction snowman
+
+- 02:48:7 Solo flute /darkorange
+- 03:12:5 Solo flute /darkorange
+- 03:24:9 /lime
+
+# 03:24:9       8) Accessoires snowman
+
+- 03:28:5 Solo Flute /darkorange
+- 03:36:4 Solo Flute /darkorange
+- 03:47:5 F Dolce pt orgue /darkorange
+- 03:58:3 mp Triolet noire /darkorange
+
+- 04:14:4 /lime
+# 04:14:4       9) 
+- 04:29:0 Horloge /darkorange
+- 04:30:8 hautbois /darkorange
+
+- 04:47:9 Cantabile /darkorange
+
+- 05:01:6 /lime
+# 05:01:6       10) Minuit
 
 
-- 02:41:1 /lime
-# 02:41:1       7) Construction snowman
+- 05:34:0 /lime
+# 05:34:0       11)
 
-- 02:48:8 Solo flute
-- 03:12:4 Solo flute
-- 03:24:8 /lime
+- 05:57:0 picolo - après vous /darkorange
+- 05:58:6 basson - merci /darkorange
 
-# 03:24:8       8) Accessoires snowman
+- 06:19:9 /lime
+# 06:19:9       12) Chat
 
-- 03:28:4 Solo Flute
-- 03:36:0 Solo Flute
-- 03:47:7 F Dolce pt orgue
-- 03:58:2 mp Triolet noire
-- 04:07:7 regard 1
-- 04:09:7 regard 2
-- 04:11:2 regard 3
+- 06:20:1 /darkorange
 
-- 04:14:5 /lime
-# 04:14:5 9) 
-- 04:29:9 Horloge
-- 04:30:4 hautbois
-## 04:30:4 3/4
-
-- 04:48:2 Cantabile
-- 04:52:4 
-- 05:01:4 /lime
-# 05:01:4       10) Minuit
-- 05:15:3 cloche
-
-# 05:34:0 11)
-
-- 06:20:1 /lime
-# 06:20:1       12) Chat
-
-- 06:20:1 /lime
+- 06:38:4 /lime
 # 06:38:4       13) Sapin
 
 - 07:08:3 /lime
 # 07:08:3       14) Television
-- 07:21:6 Montée
 
-- 07:28:9 /lime
-# 07:28:9 15)
+- 07:21:5 Montée /darkorange
 
-- 07:41:1 switch
-- 07:47:7 switch
-- 07:48:2 switch
-- 07:49:2 switch
-- 08:08:0 savon
+- 07:29:0 /darkorange
 
-- 08:22:9 /lime
-# 08:22:9 16)
+- 07:39:1 /lime
+# 07:39:1 15)
 
-- 08:55:1 /lime
-# 08:55:1 17) Alla calypso
-# 09:31:1 18)
-# 19)
-# 20)
-# 21)
-# 22)
-# 23)
-# 24)
-# 25)
-# 26)
-# 27)
-# 28)
-# 29)
-# 30)
-# 31)
-# 32)
-# 33)
-# 34)
-# 35)
-# 36)
-# 37)
-# 38)
-# 39)
-# 40)
-# 41)
-# 42)
-# 43)
-# 44)
-# 45)
-# 46)
-# 47)
-# 48)
-# 49)
-# 50)
-# 51)
+- 07:41:1 switch /darkorange
+- 07:57:4 solo starwars /darkorange
+
+- 08:08:0 savon /darkorange
+- 08:13:4 /darkorange
+- 08:24:0 /lime
+# 08:24:0 16)
+
+- 08:55:0 /lime
+# 08:55:0 17) Alla calypso
+
+- 09:21:4 changement tempo pizzicato /darkorange
+- 09:25:3 Lumière /darkorange
+
+- 09:31:1 /lime
+# 09:31:1 18) 
+
+- 09:54:5 /lime
+# 09:54:5 19) 
+
+- 10:10:0 percussion chapeau /darkorange
+- 10:30:8 depart corde /darkorange
+
+- 10:43:0 /lime
+# 10:43:0 20) Slower
+
+- 11:03:8 Atchoum /darkorange
+
+- 11:11:9 /lime
+# 11:11:9 21) Tempo di valse
+
+- 11:23:8 glissade /darkorange
+
+- 11:37:8 /lime
+# 11:37:8 22) 
+
+- 11:53:9 /lime
+# 11:53:9 23)
+- 12:13:8 /darkorange
+- 12:17:3 /lime 
+# 12:17:3 24)
+
+- 12:44:0 /lime
+# 12:44:0 25) Moto
+
+- 13:07:7 /darkorange
+
+- 13:19:0 /lime
+# 13:19:0 26)
+
+- 13:39:0 /lime
+# 13:39:0 27)
+
+- 13:57:0 /lime
+# 13:57:0 28)
+
+- 14:16:0 /lime
+# 14:16:0 29)
+
+- 14:37:0 /lime
+# 14:37:0 30)
+- 14:48:6 moderato /darkorange
+
+- 14:55:5 /lime
+# 14:55:5 31)
+- 15:12:4 /lime
+
+- 15:25:4 /lime
+# 15:25:4 32)
+- 15:32:8 soprane /darkorange
+
+- 16:17:9 /lime
+# 16:17:9 33)
+
+- 16:32:8 Chant /darkorange
+
+- 16:55:2 /lime
+# 16:55:2 34)
+
+- 17:14:0 /lime
+# 17:14:0 35)
+
+- 17:36:9 35a)
+# 17:36:9 35a)
+
+- 17:56:8 /lime
+# 17:56:8 36)
+- 18:03:7 baleine /darkorange
+
+- 18:17:8 /lime
+# 18:17:8 37)
+
+- 18:58:2 /lime
+# 18:58:2 38)
+
+- 19:27:2 /lime
+# 19:27:2 39)
+- 19:41:0 /lime
+# 19:41:0 40)
+
+- 19:57:2 /lime
+# 19:57:2 41)
+
+- 20:13:2 /lime
+# 20:13:2 42)
+
+- 20:21:2 /lime
+# 20:21:2 43)
+
+- 20:37:4 /lime
+# 20:37:4 44)
+
+- 20:53:2 /lime
+# 20:53:2 45)
+
+- 21:09:2 /lime
+# 21:09:2 46)
+
+- 21:25:3 /lime
+# 21:25:3 47)
+
+- 21:38:7 /lime
+# 21:38:7 48)
+- 21:49:9 altos /darkorange
+
+- 22:15:5 /lime
+# 22:15:5 49)
+
+- 22:59:5 /lime
+# 22:59:5 50)
+- 23:21:0 /darkorange
+- 23:34:7 /darkorange
+
+- 23:50:4 /lime
+# 23:50:4 51)
+- 24:27:9 depart piano /darkorange
+- 24:33:3 /lime
+# 24:33:3 52)
+
+- 24:55:8 /lime
+# 24:55:8 53)
+- 25:18:8 /darkorange
+
