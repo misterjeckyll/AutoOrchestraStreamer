@@ -100,8 +100,6 @@ Couleurs
 - 06:19:9 /lime
 # 06:19:9       12) Chat
 
-- 06:20:1 /darkorange
-
 - 06:38:4 /lime
 # 06:38:4       13) Sapin
 
